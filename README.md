@@ -2,8 +2,8 @@
 
 ## URL de l'api : 
 
-https://fakestoreapi.com/products 
+https://pokeapi.co/
 
 ## A quoi cela va servir ?  
 
-Pouvoir afficher des produits, leurs descriptions, prix et de les triés
+liste de tous les pokemons, abilités, etc...
